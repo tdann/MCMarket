@@ -1,0 +1,54 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#d5e1e4"
+    tools:context="com.example.tdanng.mcmarket.ShoesDescription">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="New Styles of Shoes"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        android:textColor="#121010"/>
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/s1"
+        />
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="30dp"
+        android:src="@drawable/s2"
+        />
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="120dp"
+        android:layout_marginTop="150dp"
+        android:src="@drawable/s4"/>
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="150dp"
+        android:src="@drawable/s3"
+        />
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sho"
+        android:textColor="#dd1219de"
+        android:layout_marginTop="260dp"
+        android:textSize="20sp"/>
+
+</FrameLayout>

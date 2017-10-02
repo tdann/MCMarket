@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mbarara Central Market</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="in">We supply all kinds of vegetables for a good delicious meal at a good and affordable price</string>
+    <string name="sho">We brought to you all styles of shoes. Choose at a good and affordable price</string>
+    <string name="fru">We have all types of Fruits in all quantities at affordable prices</string>
+    <string name="clo">All types of clothings are available at affordable prices</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
